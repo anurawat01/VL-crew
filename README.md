@@ -12,7 +12,7 @@ To demonstrate the mechanism of Insertion and Deletion Operations in Queue using
 |-----------|----------|
 | Institute | Rajkiya Engineering College,Banda |
 | Email id | amittri13@gmail.com |
-| Department | Information technology|
+| Department | Applied Science & Humanities |
 
 Contributors List
 

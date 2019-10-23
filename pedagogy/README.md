@@ -81,11 +81,11 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 <a name="SI"></a>
 
-#### 4. Simulator Interactions:
+#### 5. Simulator Interactions:
 <br>
 
 Sr. No |  What Students will do? |	What Simulator will do?	| Purpose of the task
-:--|:--|:-:|:-:
-1. | The student will take elements for input in a <br> queue. | Simulator will store the values <br> of the elements| <div align="justify"> Student will be able to make <br> a queue
-2. | The student will click the insertion button. | Simulator will perform the  <br> insertion operation | <div align="justify"> Student will learn how <br> insertion is carried out in a <br> queue
-3. | The student will click the deletion button.  | Simulator will perform the <br> deletion operation | <div align="justify"> Student will acquire <br> knowledge about the  <br> deletion operation in a <br> queue.
+:--|:--|:--|:-:
+1.| The student will take elements for input in a <br> queue. | Simulator will store the values <br> of the elements| <div align="justify"> Student will be able to make <br> a queue
+2.| The student will click the insertion button. | Simulator will perform the  <br> insertion operation | <div align="justify"> Student will learn how <br> insertion is carried out in a <br> queue
+3.| The student will click the deletion button.  | Simulator will perform the <br> deletion operation | <div align="justify"> Student will acquire <br> knowledge about the  <br> deletion operation in a <br> queue.

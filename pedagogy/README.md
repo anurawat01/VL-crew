@@ -1,7 +1,7 @@
 ## Round 1
 <p align="center">
 
-<b> Design a Deterministic Finite Automata For The Given Examples </b> <a name="top"></a> <br>
+<b> Operations on Queue ADT using linked list </b> <a name="top"></a> <br>
 </p>
 
 <b>Discipline | </b> Computer Science & Engineering

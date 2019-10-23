@@ -17,7 +17,7 @@
 <h4> [5. Simulator Interactions](#SI)
 <hr>
 
-<a name="LO"></a>
+<a name="#LO"></a>
 #### 1. Focus Area : Data Structure 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -38,7 +38,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <br/>
 <hr>
 
-<a name="IS"></a>
+<a name="#IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :     <u> Expository and problem based.</u>
 ###### Assessment Method: <u>Formative Assessment</u>
@@ -59,7 +59,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <br/>
 <hr>
 
-<a name="AQ"></a>
+<a name="#AQ"></a>
 #### 4. Task & Assessment Questions:
 
 Read the theory and comprehend the concepts related to the experiment.
@@ -79,7 +79,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 <br/>
 <hr>
 
-<a name="SI"></a>
+<a name="#SI"></a>
 
 #### 5. Simulator Interactions:
 <br>
